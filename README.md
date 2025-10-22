@@ -56,27 +56,30 @@ PocketMoney is a comprehensive personal finance management application that help
 > **Note:** Add your screenshots to a `screenshots` folder in your repository
 
 #### Homepage
-![Homepage](<img width="1882" height="976" alt="image" src="https://github.com/user-attachments/assets/8ba5da1e-2a7a-4a11-9780-3d8784e0841f"/>)
+![Homepage](https://github.com/user-attachments/assets/bf30dd90-d4dd-4c46-9ebb-a7d19bd0bd9f)
 *Modern landing page with gradient background and glassmorphism effects*
 
 #### Sign In / Sign Up
-![Sign In](screenshots/signin.png)
+![Sign In](https://github.com/user-attachments/assets/fe317db5-593b-4ed7-b413-61d53fba3259)
+![Sign Up](https://github.com/user-attachments/assets/d385bb52-1dc7-47cd-b574-4cd4298c9ead)
 *Secure authentication with animated form fields*
 
 #### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/69225bc8-9861-4fe6-9306-951df9e738e9)
 *Comprehensive overview with statistics cards and spending charts*
 
 #### Add Expense
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](https://github.com/user-attachments/assets/bbb7ff8b-641d-4aa6-a56a-d7c376e35120)
 *Intuitive expense entry form with category selection*
 
 #### Detailed Reports
-![Reports](screenshots/reports.png)
+![Reports](https://github.com/user-attachments/assets/69361aad-4c56-44de-845f-8b370d064ffd
+)
 *Filterable and sortable transaction history*
 
 #### Monthly Category Report
-![Category Report](screenshots/category-report.png)
+![Category Report](https://github.com/user-attachments/assets/2fcf0746-136b-4f12-876e-f017b0a38e38
+)
 *Visual breakdown of spending by category over time*
 
 ## 🚀 Tech Stack
