@@ -677,7 +677,7 @@ SOFTWARE.
 ## 👨‍💻 Author
 
 **Sonu**
-- GitHub:[SONURAYY0900](https://www.linkedin.com/in/sonuray-dev/)
+- GitHub:[SONURAYY0900](https://github.com/SONURAY0900)
 - LinkedIn: [sonuray-dev](https://linkedin.com/in//sonuray-dev/)
 - Email:raysonu0900@gmail.com
 
