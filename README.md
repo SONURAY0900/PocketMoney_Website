@@ -677,9 +677,9 @@ SOFTWARE.
 ## 👨‍💻 Author
 
 **Sonu**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub:[SONURAYY0900](https://www.linkedin.com/in/sonuray-dev/)
+- LinkedIn: [sonuray-dev](https://linkedin.com/in//sonuray-dev/)
+- Email:raysonu0900@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -701,7 +701,7 @@ SOFTWARE.
 
 For questions or support:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email:raysonu0900@gmail.com
 
 ---
 
